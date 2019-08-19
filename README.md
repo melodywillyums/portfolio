@@ -1,13 +1,13 @@
 # portfolio
 
-##VOCABULARY
+## VOCABULARY
 HTML / CSS / Javascript
 
-##Project
+## Project
 melodywilliams.us
 
-#MY PORTFOLIO WEBSITE
+# MY PORTFOLIO WEBSITE
 This is my teaching artist and writer portfolio website, which I want to be playful with and enjoy building myself!
 
-#Credits
+# Credits
 speical thanks to andreafrank omarcoding amandayamasaki
